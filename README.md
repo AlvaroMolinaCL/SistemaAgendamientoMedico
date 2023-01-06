@@ -30,7 +30,7 @@ Nota: Es importante que todas estas operaciones se realicen con la terminal abie
 
 ## Limitaciones
 
-* No se recommienda el uso de caracteres especiales tales como tildes (á, â, à), eñes (ñ), símbolos ($, %, &, #, ¿, ¡), entre otros, ya que no podrán ser leídos adecuadamente por el programa y podrían generar errores durante la ejecución del mismo o durante la comunicación con el flujo del almacén de datos.
+* No se recomienda el uso de caracteres especiales tales como tildes (á, â, à), eñes (ñ), símbolos ($, %, &, #, ¿, ¡), entre otros, ya que no podrán ser leídos adecuadamente por el programa y podrían generar errores durante la ejecución del mismo o durante la comunicación con el flujo del almacén de datos.
 
 * Debido a limitaciones del lenguaje de programación C, este programa no puede hacer un control automatizado de las horas médicas que son registradas dentro del almacén de datos del programa, por lo que es recomendable revisar constantemente el registro (se puede hacer desde la interfaz del programa o abriendo el archivo samHoursLog.txt ubicado en la carpeta de este software) antes de ingresar una nueva cita con el objetivo de prevenir choques de horarios.
 
@@ -38,6 +38,6 @@ Nota: Es importante que todas estas operaciones se realicen con la terminal abie
 
 Este programa fue desarrollado como proyecto final del curso de Taller de Programación I (IN1045C) por estudiantes de la carrera de Ingeniería Civil Informática de la Universidad Católica de la Santísima Concepción.
 
-* Álvaro Molina Jara (amolinaj@ing.ucsc.cl).
-* Juliano Muñoz Sepúlveda (jmunozse@ing.ucsc.cl).
-* Florencia Staforelli Reyes (fstaforelli@ing.ucsc.cl).
+* Álvaro Molina Jara.
+* Juliano Muñoz Sepúlveda.
+* Florencia Staforelli Reyes.
